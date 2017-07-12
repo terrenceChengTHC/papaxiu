@@ -1,0 +1,1 @@
+/Users/terrence/bang/NodeBB/node_modules/ace-builds/src-min/theme-idle_fingers.js
